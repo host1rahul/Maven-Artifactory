@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: Micro-plugin
-Bundle-SymbolicName: micro-plugin
-Bundle-Version: 1.0.0.qualifier
-Automatic-Module-Name: micro.plugin
-Bundle-RequiredExecutionEnvironment: JavaSE-16
